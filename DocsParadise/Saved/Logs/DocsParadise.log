@@ -8116,3 +8116,638 @@ LogInit: Object subsystem initialized
 [2018.09.08-23.38.02:565][248]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonExampleMap_BuiltDataB1BC93C44BEB61B3944E688AAF89D25B.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2018.09.08-23.38.05:355][499]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonCharacter_1A2DE5AE477DC661563D178B00F04B03.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter_.uasset'
 [2018.09.08-23.38.05:393][499]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/UE4_Mannequin_Skeleton2E5674A4481A8B282C8803A6A3C6CEA4.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.09.08-23.48.56:696][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.08-23.49.41:312][623]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonExampleMap85617AA34EED631BC023178F49E454CD.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.08-23.49.45:898][623]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonExampleMap_BuiltData91AE2EF7418B0930D46EC187093C02C0.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.08-23.50.28:904][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Air/M_dust_specs_sparkling_lx.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:904][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Air/M_dust_specs_sparkling_lx.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:905][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/CameraHeightFade.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:905][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/CameraHeightFade.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:907][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DAL_MapPage_MAT_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:907][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DAL_MapPage_MAT_2.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:908][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Algae.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:908][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Algae.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:910][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_CameraDepthFade.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:910][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_CameraDepthFade.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:911][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_CharacterDamage.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:911][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_CharacterDamage.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:913][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Colorization_6Channel.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:913][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Colorization_6Channel.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:914][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Colorization_VertexColor.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:914][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Colorization_VertexColor.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:916][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Desaturate.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:916][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Desaturate.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:917][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Displacement.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:917][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Displacement.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:918][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Dissolve-Fur.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:918][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Dissolve-Fur.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:919][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Dissolve.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:920][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Dissolve.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:921][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Fresnel.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:921][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Fresnel.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:922][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_FurCharacterDamage.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:922][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_FurCharacterDamage.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:923][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_FurTipColors.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:924][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_FurTipColors.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:925][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Iridescence.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:925][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Iridescence.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:926][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_LandscapePigmentMap-Masked.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:926][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_LandscapePigmentMap-Masked.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:928][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_LandscapePigmentMap.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:928][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_LandscapePigmentMap.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:929][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_MaterialProperties.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:929][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_MaterialProperties.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:931][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_MaterialProperties_Foliage.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:931][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_MaterialProperties_Foliage.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:932][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_MaterialProperties_VertexBlended.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:932][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_MaterialProperties_VertexBlended.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:934][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_MatLayerBlend_StandardNormalMix.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:934][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_MatLayerBlend_StandardNormalMix.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:935][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Noise_CheapSpeckled.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:935][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Noise_CheapSpeckled.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:936][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_PerInstanceFading.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:936][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_PerInstanceFading.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:938][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_SpeedTreeSettings.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:938][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_SpeedTreeSettings.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:939][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_SSAO.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:939][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_SSAO.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:940][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_TriPlanar_NormalSlope.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:940][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_TriPlanar_NormalSlope.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:942][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Tri_PlanarMatFunction.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:942][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Tri_PlanarMatFunction.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:944][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_trueSKY_Fog.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:944][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_trueSKY_Fog.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:945][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_VertexWeightBlending.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:945][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_VertexWeightBlending.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:947][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Wetness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:947][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_Wetness.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:948][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_WorldAlignedTextures_Complex.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:948][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/DNL_WorldAlignedTextures_Complex.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:950][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Gameplay/M_impact_splash_subUV.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:950][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Gameplay/M_impact_splash_subUV.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:951][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/HeightFade.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:951][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/HeightFade.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:953][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/InvisMat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:953][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/InvisMat.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:954][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/LensFlare/M_Lensflare_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:954][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/LensFlare/M_Lensflare_01.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:955][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MapPage_MAT_2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:955][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MapPage_MAT_2.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:957][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MATF_ObjectRaining.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:957][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MATF_ObjectRaining.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:958][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MATF_ObjectRaining_Simple.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:958][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MATF_ObjectRaining_Simple.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:960][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MATF_ObjectSnow.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:960][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MATF_ObjectSnow.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:961][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MATF_VertexWind.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:961][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MATF_VertexWind.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:962][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MIC_RedWall.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:962][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MIC_RedWall.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:964][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MIC_SpiderWeb3.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:964][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MIC_SpiderWeb3.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:965][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MIC_TempleCloth.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:965][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MIC_TempleCloth.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:966][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MI_SceneBlur_PP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:966][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MI_SceneBlur_PP.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:967][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MI_Scene_DiloPoison.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:967][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MI_Scene_DiloPoison.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:969][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MI_Scene_PoopHit.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:969][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MI_Scene_PoopHit.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:971][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_CliffRocks_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:971][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_CliffRocks_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:972][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Clothing.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:972][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Clothing.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:974][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Clothing_NoMetallic_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:974][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Clothing_NoMetallic_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:976][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Equipment.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:976][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Equipment.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:977][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Equipment_Metallic_Colorized_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:977][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Equipment_Metallic_Colorized_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:979][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Equipment_Metallic_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:979][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Equipment_Metallic_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:980][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Foliage_GroundClutter.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:980][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Foliage_GroundClutter.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:982][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Foliage_Leaves.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:982][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Foliage_Leaves.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:983][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Foliage_Leaves_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:983][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Foliage_Leaves_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:985][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Foliage_SplitTrunk.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:985][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Foliage_SplitTrunk.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:987][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Foliage_Trunk.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:987][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Foliage_Trunk.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:989][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_GroundClutter.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:989][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_GroundClutter.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:990][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_GroundClutter_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:990][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_GroundClutter_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:992][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Monster.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:992][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Monster.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:993][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_MonsterFur_Colorize.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:993][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_MonsterFur_Colorize.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:995][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_MonsterFur_Colorized_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:995][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_MonsterFur_Colorized_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:996][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Monster_NoMetallic_Colorized_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:996][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Monster_NoMetallic_Colorized_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:998][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Monster_NoMetallic_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:998][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Monster_NoMetallic_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.28:999][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_ParallaxDecal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.28:999][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_ParallaxDecal.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:001][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Rocks.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:001][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Rocks.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:002][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_SpiderWeb.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:002][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_SpiderWeb.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:003][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Structure.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:004][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Structure.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:005][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Structure_NoMetallic_Colorized_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:005][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Structure_NoMetallic_Colorized_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:006][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Structure_NoMetallic_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:006][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Structure_NoMetallic_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:008][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Wood_Structure_Colorize.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:008][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/MM_Wood_Structure_Colorize.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:009][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/M_Basic_Wall.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:009][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/M_Basic_Wall.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:011][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/M_CrossHair_LockOn_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:011][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/M_CrossHair_LockOn_1.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:012][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/M_LockOnArea.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:012][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/M_LockOnArea.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:013][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/M_SceneBlur_PP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:013][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/M_SceneBlur_PP.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:014][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/M_Scene_DiloPoison.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:014][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/M_Scene_DiloPoison.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:016][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/M_Scene_PoopHit.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:016][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/M_Scene_PoopHit.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:017][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/NM_WaterPipeWatered_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:017][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/NM_WaterPipeWatered_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:019][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/NM_WaterPipe_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:019][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/NM_WaterPipe_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:020][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PE-Colorization_HumanSkin.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:020][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PE-Colorization_HumanSkin.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:021][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PP_underwaterExtinction.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:021][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PP_underwaterExtinction.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:023][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PP_underwaterExtinction_Inst.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:023][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PP_underwaterExtinction_Inst.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:024][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PP_underwaterRiverExtinction.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:024][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PP_underwaterRiverExtinction.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:025][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PP_underwaterRiverExtinction_Inst.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:025][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PP_underwaterRiverExtinction_Inst.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:027][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PP_waterScreenDistortion.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:027][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PP_waterScreenDistortion.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:028][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PP_waterScreenDistortion_Inst.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:028][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/PP_waterScreenDistortion_Inst.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:030][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Ramp/M_SoftGradient_Muzzle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:030][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Ramp/M_SoftGradient_Muzzle.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:031][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/SaturationPostProcess.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:031][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/SaturationPostProcess.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:032][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/SCUBAOverlayPostProcess.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:032][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/SCUBAOverlayPostProcess.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:033][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/SCUBAOverlayPostProcess_Inst.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:033][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/SCUBAOverlayPostProcess_Inst.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:035][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Storage_L_Colorize_MIC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:035][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Storage_L_Colorize_MIC.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:037][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Structures/MetalPieces_Effect_MAT.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:037][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Structures/MetalPieces_Effect_MAT.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:038][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Water/M_Steam_SubUV.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:038][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Water/M_Steam_SubUV.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:039][ 59]LogLinker: Warning: Asset '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Weapon/M_Impact_Decal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.09.08-23.50.29:040][ 59]LogLinker: Warning: Unable to load package (../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/DEV_DC/MAT/DNL_MAT/Weapon/M_Impact_Decal.uasset) PackageVersion 402, MaxExpected 516 : LicenseePackageVersion 5, MaxExpected 0.
+[2018.09.08-23.50.29:108][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/Air/M_dust_specs_sparkling_lx.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:146][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/CameraHeightFade.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:183][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DAL_MapPage_MAT_2.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:220][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_Algae.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:263][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_CameraDepthFade.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:306][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_CharacterDamage.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:368][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_Colorization_6Channel.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:421][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_Colorization_VertexColor.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:478][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_Desaturate.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:529][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_Displacement.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:595][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_Dissolve-Fur.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:659][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_Dissolve.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:751][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_Fresnel.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:833][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_FurCharacterDamage.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:897][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_FurTipColors.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.29:960][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_Iridescence.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:027][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_LandscapePigmentMap-Masked.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:090][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_LandscapePigmentMap.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:158][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_MaterialProperties.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:233][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_MaterialProperties_Foliage.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:302][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_MaterialProperties_VertexBlended.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:374][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_MatLayerBlend_StandardNormalMix.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:452][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_Noise_CheapSpeckled.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:522][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_PerInstanceFading.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:595][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_SpeedTreeSettings.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:670][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_SSAO.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:742][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_TriPlanar_NormalSlope.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:815][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_Tri_PlanarMatFunction.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:896][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_trueSKY_Fog.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.30:974][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_VertexWeightBlending.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.31:053][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_Wetness.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.31:135][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/DNL_WorldAlignedTextures_Complex.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.31:220][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/Gameplay/M_impact_splash_subUV.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.31:305][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/HeightFade.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.31:390][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/InvisMat.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.31:481][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/LensFlare/M_Lensflare_01.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.31:557][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MapPage_MAT_2.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.31:646][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MATF_ObjectRaining.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.31:738][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MATF_ObjectRaining_Simple.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.31:825][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MATF_ObjectSnow.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.31:916][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MATF_VertexWind.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.32:004][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MIC_RedWall.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.32:103][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MIC_SpiderWeb3.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.32:193][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MIC_TempleCloth.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.32:290][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MI_SceneBlur_PP.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.32:387][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MI_Scene_DiloPoison.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.32:485][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MI_Scene_PoopHit.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.32:583][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_CliffRocks_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.32:681][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Clothing.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.32:777][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Clothing_NoMetallic_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.32:876][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Equipment.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.32:980][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Equipment_Metallic_Colorized_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.33:086][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Equipment_Metallic_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.33:196][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Foliage_GroundClutter.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.33:302][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Foliage_Leaves.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.33:414][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Foliage_Leaves_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.33:523][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Foliage_SplitTrunk.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.33:625][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Foliage_Trunk.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.33:754][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_GroundClutter.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.33:868][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_GroundClutter_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.33:981][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Monster.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.34:101][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_MonsterFur_Colorize.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.34:233][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_MonsterFur_Colorized_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.34:359][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Monster_NoMetallic_Colorized_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.34:479][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Monster_NoMetallic_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.34:593][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_ParallaxDecal.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.34:706][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Rocks.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.34:813][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_SpiderWeb.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.34:921][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Structure.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.35:029][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Structure_NoMetallic_Colorized_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.35:136][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Structure_NoMetallic_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.35:239][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/MM_Wood_Structure_Colorize.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.35:347][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/M_Basic_Wall.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.35:455][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/M_CrossHair_LockOn_1.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.35:559][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/M_LockOnArea.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.35:655][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/M_SceneBlur_PP.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.35:773][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/M_Scene_DiloPoison.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.35:884][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/M_Scene_PoopHit.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.35:985][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/NM_WaterPipeWatered_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.36:086][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/NM_WaterPipe_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.36:189][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/PE-Colorization_HumanSkin.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.36:295][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/PP_underwaterExtinction.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.36:397][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/PP_underwaterExtinction_Inst.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.36:502][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/PP_underwaterRiverExtinction.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.36:608][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/PP_underwaterRiverExtinction_Inst.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.36:712][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/PP_waterScreenDistortion.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.36:814][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/PP_waterScreenDistortion_Inst.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.36:915][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/Ramp/M_SoftGradient_Muzzle.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.37:015][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/SaturationPostProcess.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.37:116][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/SCUBAOverlayPostProcess.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.37:219][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/SCUBAOverlayPostProcess_Inst.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.37:318][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/Storage_L_Colorize_MIC.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.37:416][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/Structures/MetalPieces_Effect_MAT.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.37:518][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/Water/M_Steam_SubUV.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.50.37:609][ 59]LogAssetTools: Warning: Failed to import 'C:\Users\dscla\Documents\GitHub\DocsParadise\DocsParadise\Content\DEV_DC\MAT\DNL_MAT/Weapon/M_Impact_Decal.uasset'. Unknown extension 'uasset'.
+[2018.09.08-23.52.58:700][899]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonExampleMapC3998E354E2E22AE6D40D8ADF67F8698.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.08-23.53.03:179][899]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonExampleMap_BuiltData6BDDCAAF4E4D4DB327286292CD17A37D.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.09.08-23.57.36:415][648]LogSlate: Window 'DocsParadise - Unreal Editor' being destroyed
+[2018.09.08-23.57.36:418][648]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.08-23.57.37:180][649]Cmd: QUIT_EDITOR
+[2018.09.08-23.57.38:243][649]LogExit: Preparing to exit.
+[2018.09.08-23.57.39:095][649]LogExit: Editor shut down
+[2018.09.08-23.57.39:102][649]LogExit: Transaction tracking system shut down
+[2018.09.08-23.57.42:557][649]LogExit: Object subsystem successfully closed.
+[2018.09.08-23.57.43:048][649]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.08-23.57.43:084][649]LogD3D11RHI: Shutdown
+[2018.09.08-23.57.43:084][649]LogD3D11RHI: CleanupD3DDevice
+[2018.09.08-23.57.43:157][649]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.08-23.57.43:254][649]LogModuleManager: Shutting down and abandoning module AnimationEditor (666)
+[2018.09.08-23.57.43:254][649]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (664)
+[2018.09.08-23.57.43:254][649]LogModuleManager: Shutting down and abandoning module PinnedCommandList (662)
+[2018.09.08-23.57.43:254][649]LogModuleManager: Shutting down and abandoning module SkeletonEditor (660)
+[2018.09.08-23.57.43:254][649]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (658)
+[2018.09.08-23.57.43:254][649]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (656)
+[2018.09.08-23.57.43:254][649]LogModuleManager: Shutting down and abandoning module BlueprintGraph (654)
+[2018.09.08-23.57.43:255][649]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (652)
+[2018.09.08-23.57.43:255][649]LogModuleManager: Shutting down and abandoning module Voice (650)
+[2018.09.08-23.57.43:255][649]LogModuleManager: Shutting down and abandoning module MeshBuilder (648)
+[2018.09.08-23.57.43:255][649]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2018.09.08-23.57.43:255][649]LogModuleManager: Shutting down and abandoning module WorldBrowser (644)
+[2018.09.08-23.57.43:256][649]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2018.09.08-23.57.43:256][649]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2018.09.08-23.57.43:280][649]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2018.09.08-23.57.43:280][649]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2018.09.08-23.57.43:280][649]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2018.09.08-23.57.43:281][649]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2018.09.08-23.57.43:282][649]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2018.09.08-23.57.43:282][649]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2018.09.08-23.57.43:283][649]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2018.09.08-23.57.43:283][649]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2018.09.08-23.57.43:283][649]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2018.09.08-23.57.43:283][649]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2018.09.08-23.57.43:283][649]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2018.09.08-23.57.43:283][649]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2018.09.08-23.57.43:283][649]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2018.09.08-23.57.43:283][649]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2018.09.08-23.57.43:283][649]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2018.09.08-23.57.43:284][649]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (608)
+[2018.09.08-23.57.43:284][649]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (606)
+[2018.09.08-23.57.43:285][649]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (604)
+[2018.09.08-23.57.43:286][649]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (602)
+[2018.09.08-23.57.43:286][649]LogModuleManager: Shutting down and abandoning module SequenceRecorder (601)
+[2018.09.08-23.57.43:287][649]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (598)
+[2018.09.08-23.57.43:287][649]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (596)
+[2018.09.08-23.57.43:290][649]LogModuleManager: Shutting down and abandoning module PlacementMode (595)
+[2018.09.08-23.57.43:291][649]LogModuleManager: Shutting down and abandoning module MaterialEditor (594)
+[2018.09.08-23.57.43:291][649]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (590)
+[2018.09.08-23.57.43:291][649]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (588)
+[2018.09.08-23.57.43:291][649]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (586)
+[2018.09.08-23.57.43:292][649]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (584)
+[2018.09.08-23.57.43:292][649]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (582)
+[2018.09.08-23.57.43:292][649]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (580)
+[2018.09.08-23.57.43:292][649]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (578)
+[2018.09.08-23.57.43:292][649]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (576)
+[2018.09.08-23.57.43:292][649]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (574)
+[2018.09.08-23.57.43:292][649]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (572)
+[2018.09.08-23.57.43:292][649]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (570)
+[2018.09.08-23.57.43:292][649]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (568)
+[2018.09.08-23.57.43:293][649]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (566)
+[2018.09.08-23.57.43:293][649]LogModuleManager: Shutting down and abandoning module CharacterAI (564)
+[2018.09.08-23.57.43:293][649]LogModuleManager: Shutting down and abandoning module SmartSnapping (562)
+[2018.09.08-23.57.43:293][649]LogModuleManager: Shutting down and abandoning module SessionServices (560)
+[2018.09.08-23.57.43:293][649]LogModuleManager: Shutting down and abandoning module ViewportSnapping (558)
+[2018.09.08-23.57.43:293][649]LogModuleManager: Shutting down and abandoning module ViewportInteraction (556)
+[2018.09.08-23.57.43:293][649]LogModuleManager: Shutting down and abandoning module ClothPainter (554)
+[2018.09.08-23.57.43:294][649]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (553)
+[2018.09.08-23.57.43:295][649]LogModuleManager: Shutting down and abandoning module LogVisualizer (550)
+[2018.09.08-23.57.43:297][649]LogModuleManager: Shutting down and abandoning module IntroTutorials (548)
+[2018.09.08-23.57.43:298][649]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (547)
+[2018.09.08-23.57.43:299][649]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (544)
+[2018.09.08-23.57.43:299][649]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (542)
+[2018.09.08-23.57.43:300][649]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (540)
+[2018.09.08-23.57.43:300][649]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (538)
+[2018.09.08-23.57.43:300][649]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (537)
+[2018.09.08-23.57.43:955][649]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (534)
+[2018.09.08-23.57.43:955][649]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (532)
+[2018.09.08-23.57.43:955][649]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (530)
+[2018.09.08-23.57.43:955][649]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (528)
+[2018.09.08-23.57.43:955][649]LogModuleManager: Shutting down and abandoning module InputBindingEditor (526)
+[2018.09.08-23.57.43:956][649]LogModuleManager: Shutting down and abandoning module MergeActors (524)
+[2018.09.08-23.57.43:956][649]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (522)
+[2018.09.08-23.57.43:957][649]LogModuleManager: Shutting down and abandoning module LocalizationService (521)
+[2018.09.08-23.57.43:957][649]LogModuleManager: Shutting down and abandoning module HardwareTargeting (518)
+[2018.09.08-23.57.43:957][649]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (516)
+[2018.09.08-23.57.43:958][649]LogModuleManager: Shutting down and abandoning module UndoHistory (514)
+[2018.09.08-23.57.43:958][649]LogModuleManager: Shutting down and abandoning module XmlParser (512)
+[2018.09.08-23.57.43:958][649]LogModuleManager: Shutting down and abandoning module Blutility (510)
+[2018.09.08-23.57.43:959][649]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (508)
+[2018.09.08-23.57.43:959][649]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (507)
+[2018.09.08-23.57.43:960][649]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (504)
+[2018.09.08-23.57.43:961][649]LogModuleManager: Shutting down and abandoning module SettingsEditor (502)
+[2018.09.08-23.57.43:961][649]LogModuleManager: Shutting down and abandoning module ProjectLauncher (500)
+[2018.09.08-23.57.43:962][649]LogModuleManager: Shutting down and abandoning module SessionFrontend (498)
+[2018.09.08-23.57.43:962][649]LogModuleManager: Shutting down and abandoning module ProfilerClient (496)
+[2018.09.08-23.57.43:963][649]LogModuleManager: Shutting down and abandoning module DeviceManager (494)
+[2018.09.08-23.57.43:963][649]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (493)
+[2018.09.08-23.57.44:018][649]LogModuleManager: Shutting down and abandoning module AutomationController (490)
+[2018.09.08-23.57.44:019][649]LogModuleManager: Shutting down and abandoning module AutomationWindow (488)
+[2018.09.08-23.57.44:019][649]LogModuleManager: Shutting down and abandoning module Layers (486)
+[2018.09.08-23.57.44:021][649]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (484)
+[2018.09.08-23.57.44:021][649]LogModuleManager: Shutting down and abandoning module DetailCustomizations (482)
+[2018.09.08-23.57.44:021][649]LogModuleManager: Shutting down and abandoning module PackagesDialog (480)
+[2018.09.08-23.57.44:021][649]LogModuleManager: Shutting down and abandoning module Persona (478)
+[2018.09.08-23.57.44:021][649]LogModuleManager: Shutting down and abandoning module AnimGraph (477)
+[2018.09.08-23.57.44:021][649]LogModuleManager: Shutting down and abandoning module Kismet (474)
+[2018.09.08-23.57.44:051][649]LogModuleManager: Shutting down and abandoning module GraphEditor (472)
+[2018.09.08-23.57.44:051][649]LogModuleManager: Shutting down and abandoning module ClassViewer (470)
+[2018.09.08-23.57.44:057][649]LogModuleManager: Shutting down and abandoning module Toolbox (468)
+[2018.09.08-23.57.44:057][649]LogModuleManager: Shutting down and abandoning module ModuleUI (466)
+[2018.09.08-23.57.44:057][649]LogModuleManager: Shutting down and abandoning module MovieSceneTools (464)
+[2018.09.08-23.57.44:059][649]LogModuleManager: Shutting down and abandoning module OutputLog (462)
+[2018.09.08-23.57.44:060][649]LogModuleManager: Shutting down and abandoning module GammaUI (460)
+[2018.09.08-23.57.44:060][649]LogModuleManager: Shutting down and abandoning module Documentation (458)
+[2018.09.08-23.57.44:067][649]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (456)
+[2018.09.08-23.57.44:067][649]LogModuleManager: Shutting down and abandoning module MovieScene (454)
+[2018.09.08-23.57.44:067][649]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (452)
+[2018.09.08-23.57.44:068][649]LogModuleManager: Shutting down and abandoning module LauncherPlatform (450)
+[2018.09.08-23.57.44:068][649]LogModuleManager: Shutting down and abandoning module AnalyticsET (448)
+[2018.09.08-23.57.44:068][649]LogModuleManager: Shutting down and abandoning module PortalServices (446)
+[2018.09.08-23.57.44:068][649]LogModuleManager: Shutting down and abandoning module PortalRpc (444)
+[2018.09.08-23.57.44:068][649]LogModuleManager: Shutting down and abandoning module MessagingRpc (442)
+[2018.09.08-23.57.44:068][649]LogModuleManager: Shutting down and abandoning module AIModule (440)
+[2018.09.08-23.57.44:068][649]LogModuleManager: Shutting down and abandoning module GameplayDebugger (439)
+[2018.09.08-23.57.44:069][649]LogModuleManager: Shutting down and abandoning module AITestSuite (437)
+[2018.09.08-23.57.44:069][649]LogModuleManager: Shutting down and abandoning module NavigationSystem (435)
+[2018.09.08-23.57.44:069][649]LogModuleManager: Shutting down and abandoning module DesktopPlatform (432)
+[2018.09.08-23.57.44:069][649]LogModuleManager: Shutting down and abandoning module ProfilerService (430)
+[2018.09.08-23.57.44:272][649]LogModuleManager: Shutting down and abandoning module TaskGraph (428)
+[2018.09.08-23.57.44:273][649]LogModuleManager: Shutting down and abandoning module DatasmithCADImporter (426)
+[2018.09.08-23.57.44:274][649]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (424)
+[2018.09.08-23.57.44:275][649]LogModuleManager: Shutting down and abandoning module SubstanceSource (422)
+[2018.09.08-23.57.44:277][649]LogModuleManager: Shutting down and abandoning module SubstanceEditor (420)
+[2018.09.08-23.57.44:278][649]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (418)
+[2018.09.08-23.57.44:279][649]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (417)
+[2018.09.08-23.57.44:279][649]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (416)
+[2018.09.08-23.57.44:279][649]LogModuleManager: Shutting down and abandoning module DatasmithMDLImporter (412)
+[2018.09.08-23.57.44:289][649]LogModuleManager: Shutting down and abandoning module DatasmithImporter (410)
+[2018.09.08-23.57.44:293][649]LogModuleManager: Shutting down and abandoning module SteamVRController (408)
+[2018.09.08-23.57.44:293][649]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (406)
+[2018.09.08-23.57.44:294][649]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (404)
+[2018.09.08-23.57.44:295][649]LogModuleManager: Shutting down and abandoning module OculusInput (402)
+[2018.09.08-23.57.44:295][649]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (400)
+[2018.09.08-23.57.44:295][649]LogModuleManager: Shutting down and abandoning module EditableMesh (398)
+[2018.09.08-23.57.44:296][649]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (396)
+[2018.09.08-23.57.44:296][649]LogModuleManager: Shutting down and abandoning module CableComponent (394)
+[2018.09.08-23.57.44:296][649]LogModuleManager: Shutting down and abandoning module AudioCapture (392)
+[2018.09.08-23.57.44:296][649]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (390)
+[2018.09.08-23.57.44:296][649]LogModuleManager: Shutting down and abandoning module AndroidPermission (388)
+[2018.09.08-23.57.44:296][649]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (386)
+[2018.09.08-23.57.44:296][649]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (384)
+[2018.09.08-23.57.44:298][649]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (382)
+[2018.09.08-23.57.44:298][649]LogModuleManager: Shutting down and abandoning module MediaCompositing (380)
+[2018.09.08-23.57.44:298][649]LogModuleManager: Shutting down and abandoning module LinearTimecode (378)
+[2018.09.08-23.57.44:298][649]LogModuleManager: Shutting down and abandoning module ImgMedia (376)
+[2018.09.08-23.57.44:306][649]LogModuleManager: Shutting down and abandoning module LowEntryExtendedStandardLibraryEditor (374)
+[2018.09.08-23.57.44:306][649]LogModuleManager: Shutting down and abandoning module HTML5Networking (372)
+[2018.09.08-23.57.44:307][649]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (370)
+[2018.09.08-23.57.44:307][649]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (368)
+[2018.09.08-23.57.44:307][649]LogModuleManager: Shutting down and abandoning module BackChannel (366)
+[2018.09.08-23.57.44:307][649]LogModuleManager: Shutting down and abandoning module AppleVision (364)
+[2018.09.08-23.57.44:307][649]LogModuleManager: Shutting down and abandoning module AppleImageUtils (362)
+[2018.09.08-23.57.44:307][649]LogModuleManager: Shutting down and abandoning module AlembicImporter (360)
+[2018.09.08-23.57.44:307][649]LogModuleManager: Shutting down and abandoning module AlembicLibrary (359)
+[2018.09.08-23.57.44:307][649]LogModuleManager: Shutting down and abandoning module GeometryCache (358)
+[2018.09.08-23.57.44:307][649]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (357)
+[2018.09.08-23.57.44:307][649]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (352)
+[2018.09.08-23.57.44:307][649]LogModuleManager: Shutting down and abandoning module DatasmithContent (350)
+[2018.09.08-23.57.44:308][649]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (348)
+[2018.09.08-23.57.44:308][649]LogModuleManager: Shutting down and abandoning module PluginBrowser (346)
+[2018.09.08-23.57.44:309][649]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (344)
+[2018.09.08-23.57.44:309][649]LogModuleManager: Shutting down and abandoning module PolygonModeling (342)
+[2018.09.08-23.57.44:309][649]LogModuleManager: Shutting down and abandoning module MeshEditor (340)
+[2018.09.08-23.57.44:310][649]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (338)
+[2018.09.08-23.57.44:310][649]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (336)
+[2018.09.08-23.57.44:311][649]LogModuleManager: Shutting down and abandoning module CryptoKeys (334)
+[2018.09.08-23.57.44:311][649]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (332)
+[2018.09.08-23.57.44:311][649]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (330)
+[2018.09.08-23.57.44:311][649]LogModuleManager: Shutting down and abandoning module UObjectPlugin (328)
+[2018.09.08-23.57.44:311][649]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (326)
+[2018.09.08-23.57.44:312][649]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (324)
+[2018.09.08-23.57.44:314][649]LogModuleManager: Shutting down and abandoning module GitSourceControl (322)
+[2018.09.08-23.57.44:315][649]LogModuleManager: Shutting down and abandoning module SourceControl (321)
+[2018.09.08-23.57.44:317][649]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (318)
+[2018.09.08-23.57.44:317][649]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2018.09.08-23.57.44:317][649]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2018.09.08-23.57.44:317][649]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2018.09.08-23.57.44:317][649]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2018.09.08-23.57.44:318][649]LogModuleManager: Shutting down and abandoning module MeshPaint (309)
+[2018.09.08-23.57.44:318][649]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2018.09.08-23.57.44:318][649]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2018.09.08-23.57.44:319][649]LogModuleManager: Shutting down and abandoning module PhysXVehicles (302)
+[2018.09.08-23.57.44:319][649]LogModuleManager: Shutting down and abandoning module OculusEditor (300)
+[2018.09.08-23.57.44:319][649]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (298)
+[2018.09.08-23.57.44:319][649]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (296)
+[2018.09.08-23.57.44:319][649]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (294)
+[2018.09.08-23.57.44:319][649]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (292)
+[2018.09.08-23.57.44:320][649]LogModuleManager: Shutting down and abandoning module ApexDestruction (290)
+[2018.09.08-23.57.44:321][649]LogModuleManager: Shutting down and abandoning module ActorSequence (288)
+[2018.09.08-23.57.44:321][649]LogModuleManager: Shutting down and abandoning module UdpMessaging (286)
+[2018.09.08-23.57.44:422][649]LogModuleManager: Shutting down and abandoning module TcpMessaging (284)
+[2018.09.08-23.57.44:523][649]LogModuleManager: Shutting down and abandoning module SubstanceCore (282)
+[2018.09.08-23.57.44:524][649]LogModuleManager: Shutting down and abandoning module LowEntryExtendedStandardLibrary (280)
+[2018.09.08-23.57.44:524][649]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.09.08-23.57.44:524][649]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.09.08-23.57.44:525][649]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.09.08-23.57.44:525][649]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.09.08-23.57.44:525][649]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.09.08-23.57.44:525][649]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.09.08-23.57.44:526][649]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.09.08-23.57.44:531][649]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.09.08-23.57.44:532][649]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.09.08-23.57.44:533][649]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.09.08-23.57.44:533][649]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.09.08-23.57.44:535][649]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.09.08-23.57.44:541][649]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.09.08-23.57.44:542][649]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.09.08-23.57.44:542][649]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.09.08-23.57.44:542][649]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.09.08-23.57.44:542][649]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.09.08-23.57.44:543][649]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.09.08-23.57.44:548][649]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.09.08-23.57.44:554][649]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.09.08-23.57.44:555][649]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.09.08-23.57.44:555][649]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.09.08-23.57.44:556][649]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.09.08-23.57.44:556][649]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.09.08-23.57.44:556][649]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.09.08-23.57.44:556][649]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.09.08-23.57.44:556][649]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.09.08-23.57.44:556][649]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.09.08-23.57.44:556][649]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.09.08-23.57.44:558][649]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.09.08-23.57.44:558][649]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.09.08-23.57.44:559][649]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.09.08-23.57.44:560][649]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.09.08-23.57.44:561][649]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.09.08-23.57.44:562][649]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.09.08-23.57.44:564][649]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.09.08-23.57.44:564][649]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.09.08-23.57.44:566][649]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.09.08-23.57.44:566][649]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.09.08-23.57.44:574][649]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.09.08-23.57.44:574][649]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.09.08-23.57.44:574][649]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.09.08-23.57.44:575][649]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.09.08-23.57.44:575][649]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.09.08-23.57.44:575][649]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.09.08-23.57.44:575][649]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.09.08-23.57.44:575][649]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.09.08-23.57.44:575][649]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.09.08-23.57.44:576][649]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.09.08-23.57.44:577][649]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.09.08-23.57.44:577][649]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.09.08-23.57.44:578][649]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.09.08-23.57.44:579][649]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.09.08-23.57.44:580][649]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.09.08-23.57.44:580][649]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.09.08-23.57.44:580][649]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.09.08-23.57.44:582][649]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.09.08-23.57.44:667][649]LogDerivedDataCache: Shutdown
+[2018.09.08-23.57.44:667][649]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.09.08-23.57.44:667][649]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.09.08-23.57.44:668][649]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.09.08-23.57.44:668][649]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.09.08-23.57.44:669][649]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.09.08-23.57.44:669][649]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.09.08-23.57.44:669][649]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.09.08-23.57.44:670][649]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.09.08-23.57.44:670][649]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.09.08-23.57.44:670][649]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.09.08-23.57.44:670][649]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.09.08-23.57.44:671][649]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.09.08-23.57.44:671][649]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.09.08-23.57.44:671][649]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.09.08-23.57.44:671][649]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.09.08-23.57.44:671][649]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.09.08-23.57.44:671][649]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.09.08-23.57.44:671][649]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.09.08-23.57.44:672][649]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.09.08-23.57.44:672][649]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.09.08-23.57.44:672][649]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.09.08-23.57.44:672][649]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.09.08-23.57.44:672][649]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.09.08-23.57.44:684][649]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.09.08-23.57.44:684][649]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.09.08-23.57.44:693][649]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.09.08-23.57.44:693][649]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.09.08-23.57.44:790][649]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.09.08-23.57.44:791][649]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.09.08-23.57.44:791][649]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.09.08-23.57.44:791][649]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.09.08-23.57.44:792][649]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.09.08-23.57.44:792][649]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.09.08-23.57.44:792][649]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.09.08-23.57.44:792][649]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.09.08-23.57.44:792][649]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.09.08-23.57.44:792][649]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.09.08-23.57.44:792][649]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.09.08-23.57.44:793][649]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.09.08-23.57.44:793][649]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.09.08-23.57.44:793][649]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.09.08-23.57.44:793][649]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.09.08-23.57.44:793][649]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.09.08-23.57.44:793][649]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.09.08-23.57.44:793][649]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.09.08-23.57.44:795][649]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.09.08-23.57.44:797][649]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.09.08-23.57.44:810][649]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.09.08-23.57.44:811][649]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.08-23.57.44:811][649]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4E5A32F0-4016-145B-0C8C-FDB87490832E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=e0b04009431ccf5410f138b36a74d225%7C7069fedb4cab4cc08ebf034e42b5171b%7C68740acf-7a18-4f93-a6fb-86539c711da7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.08-23.57.44:842][649]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.09.08-23.57.44:850][649]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.09.08-23.57.44:850][649]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.09.08-23.57.44:850][649]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.09.08-23.57.44:850][649]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.09.08-23.57.44:850][649]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.09.08-23.57.44:850][649]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.09.08-23.57.44:850][649]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.09.08-23.57.44:850][649]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.09.08-23.57.44:850][649]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.09.08-23.57.44:852][649]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.08-23.57.44:852][649]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.09.08-23.57.44:853][649]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.08-23.57.44:853][649]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.08-23.57.44:854][649]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.08-23.57.44:855][649]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.08-23.57.44:855][649]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.08-23.57.44:855][649]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.08-23.57.44:855][649]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.08-23.57.44:866][649]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.08-23.57.44:866][649]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.08-23.57.44:867][649]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.08-23.57.44:867][649]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.08-23.57.44:867][649]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.08-23.57.44:867][649]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.08-23.57.44:867][649]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.08-23.57.44:867][649]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.08-23.57.44:867][649]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.08-23.57.44:868][649]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.08-23.57.44:868][649]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.08-23.57.44:887][649]LogExit: Exiting.
+[2018.09.08-23.57.44:931][649]Log file closed, 09/08/18 13:57:44
