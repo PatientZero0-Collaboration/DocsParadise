@@ -1866,3 +1866,210 @@ LogInit: Object subsystem initialized
 [2018.09.08-12.21.55:290][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2018.09.08-12.21.55:350][272]LogPlayLevel: Display: Destroying online subsystem :Context_38
 [2018.09.08-12.21.56:368][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.08-12.25.45:799][801]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.08-12.25.47:464][870]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonExampleMapEE3C968A4CA8F149920D5A9AC068D45F.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.08-12.25.47:503][870]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.645
+[2018.09.08-12.26.08:124][401]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.08-12.26.09:491][443]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonExampleMap8A881C83499E08116A5F70A6D7B269A1.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.08-12.26.09:532][443]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.636
+[2018.09.08-12.26.49:297][141]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.08-12.26.50:911][203]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonExampleMap2A0FBCA94B6436FE556462AB09F09FDC.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.08-12.26.50:951][203]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.616
+[2018.09.08-12.26.54:280][522]MapCheck: New page: Map Check
+[2018.09.08-12.26.54:302][522]LightingResults: New page: Lighting Build - Sep 7, 2018, 4:26:54 PM
+[2018.09.08-12.26.54:318][522]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.08-12.26.54:326][522]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.08-12.26.54:327][522]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.08-12.26.54:328][522]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.08-12.26.54:328][522]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23772
+[2018.09.08-12.26.58:900][522]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.08-12.26.58:900][522]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.08-12.26.58:900][522]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.08-12.26.58:900][522]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.08-12.26.58:901][522]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.08-12.26.59:130][522]LogEditorBuildUtils: Build time 0:04
+[2018.09.08-12.27.03:538][823]Job is a success!
+[2018.09.08-12.27.03:628][824]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2018.09.08-12.27.03:628][824]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.09.08-12.27.03:628][824]LogVolumetricLightmapImport:      BrickData 150x5x5 = 0.1Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.09.08-12.27.03:628][824]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.08-12.27.03:628][824]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2018.09.08-12.27.03:628][824]LogVolumetricLightmapImport:          1: 13.3% covering 6.3% of volume
+[2018.09.08-12.27.03:628][824]LogVolumetricLightmapImport:          2: 83.3% covering 0.6% of volume
+[2018.09.08-12.27.04:033][824]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.09.08-12.27.04:033][824]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.09.08-12.27.04:033][824]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.09.08-12.27.04:033][824]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2018.09.08-12.27.04:034][824]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2018.09.08-12.27.04:034][824]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2018.09.08-12.27.04:034][824]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2018.09.08-12.27.04:034][824]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.09.08-12.27.04:034][824]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.09.08-12.27.04:077][824]Lightmass on DESKTOP-KEAN65B: 4.17 sec total, 226 ms importing, 32 ms setup, 1.60 sec photons, 2.26 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 32.2 sec total, 5.26 sec processing.
+[2018.09.08-12.27.04:131][824]LogStaticLightingSystem: Illumination: 9.80 sec (357 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.09.08-12.27.04:131][824]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.09.08-12.27.04:131][824]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.09.08-12.27.08:933][824]DumpUnbuiltLightIteractions
+[2018.09.08-12.27.08:933][824]Lights with unbuilt interactions: 0
+[2018.09.08-12.27.08:933][824]
+[2018.09.08-12.27.08:933][824]Primitives with unbuilt interactions: 0
+[2018.09.08-12.27.09:017][825]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.08-12.27.09:017][825]MapCheck: New page: ThirdPersonExampleMap - Sep 7, 2018, 4:27:09 PM
+[2018.09.08-12.27.09:197][825]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 180.651ms to complete.
+[2018.09.08-12.27.10:826][  1]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.08-12.27.10:846][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.08-12.27.10:846][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.08-12.27.10:846][  1]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 7, 2018, 4:27:10 PM)
+[2018.09.08-12.27.10:846][  1]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.08-12.27.10:865][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018493s)
+[2018.09.08-12.27.10:866][  1]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.08-12.27.10:866][  1]LogPlayLevel: PIE: World Init took: (0.001245s)
+[2018.09.08-12.27.10:866][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019970s)
+[2018.09.08-12.27.11:011][  1]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.08-12.27.11:027][  1]LogInit: FAudioDevice initialized.
+[2018.09.08-12.27.11:062][  1]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.08-12.27.11:065][  1]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.08-02.27.11
+[2018.09.08-12.27.11:065][  1]LogWorld: Bringing up level for play took: 0.002419
+[2018.09.08-12.27.11:079][  1]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.45
+[2018.09.08-12.27.11:080][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.08-12.27.25:333][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.08-12.27.25:333][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.08-12.27.25:394][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.08-12.27.25:394][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.08-12.27.25:441][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.08-12.27.25:502][586]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.09.08-12.27.26:921][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.08-12.27.35:002][506]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.08-12.27.36:457][561]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonExampleMapCE6CA6354BEE7E99741B85AC0FB97B95.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.08-12.27.36:498][561]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.611
+[2018.09.08-12.27.39:403][847]MapCheck: New page: Map Check
+[2018.09.08-12.27.39:429][847]LightingResults: New page: Lighting Build - Sep 7, 2018, 4:27:39 PM
+[2018.09.08-12.27.39:446][847]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.08-12.27.39:454][847]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.08-12.27.39:454][847]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.08-12.27.39:455][847]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.08-12.27.39:455][847]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23772
+[2018.09.08-12.27.44:052][847]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.08-12.27.44:052][847]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.08-12.27.44:052][847]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.08-12.27.44:052][847]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.08-12.27.44:052][847]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.08-12.27.44:267][847]LogEditorBuildUtils: Build time 0:04
+[2018.09.08-12.27.48:589][135]Job is a success!
+[2018.09.08-12.27.48:698][137]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2018.09.08-12.27.48:698][137]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.09.08-12.27.48:698][137]LogVolumetricLightmapImport:      BrickData 150x5x5 = 0.1Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.09.08-12.27.48:698][137]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.08-12.27.48:698][137]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2018.09.08-12.27.48:698][137]LogVolumetricLightmapImport:          1: 13.3% covering 6.3% of volume
+[2018.09.08-12.27.48:698][137]LogVolumetricLightmapImport:          2: 83.3% covering 0.6% of volume
+[2018.09.08-12.27.49:104][137]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.09.08-12.27.49:104][137]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.09.08-12.27.49:104][137]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.09.08-12.27.49:104][137]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2018.09.08-12.27.49:104][137]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.09.08-12.27.49:104][137]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2018.09.08-12.27.49:104][137]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.09.08-12.27.49:104][137]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.09.08-12.27.49:104][137]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.09.08-12.27.49:184][137]Lightmass on DESKTOP-KEAN65B: 4.13 sec total, 224 ms importing, 33 ms setup, 1.60 sec photons, 2.22 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 32.0 sec total, 5.39 sec processing.
+[2018.09.08-12.27.49:191][137]LogStaticLightingSystem: Illumination: 9.73 sec (362 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.09.08-12.27.49:191][137]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.09.08-12.27.49:191][137]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.09.08-12.27.50:075][137]DumpUnbuiltLightIteractions
+[2018.09.08-12.27.50:075][137]Lights with unbuilt interactions: 0
+[2018.09.08-12.27.50:075][137]
+[2018.09.08-12.27.50:075][137]Primitives with unbuilt interactions: 0
+[2018.09.08-12.27.50:160][138]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.08-12.27.50:160][138]MapCheck: New page: ThirdPersonExampleMap - Sep 7, 2018, 4:27:50 PM
+[2018.09.08-12.27.50:343][138]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 183.031ms to complete.
+[2018.09.08-12.29.44:129][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.08-12.29.44:150][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.08-12.29.44:150][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.08-12.29.44:150][ 90]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 7, 2018, 4:29:44 PM)
+[2018.09.08-12.29.44:150][ 90]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.08-12.29.44:178][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027043s)
+[2018.09.08-12.29.44:179][ 90]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.08-12.29.44:179][ 90]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2018.09.08-12.29.44:179][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028936s)
+[2018.09.08-12.29.44:321][ 90]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.08-12.29.44:337][ 90]LogInit: FAudioDevice initialized.
+[2018.09.08-12.29.44:371][ 90]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.08-12.29.44:375][ 90]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.08-02.29.44
+[2018.09.08-12.29.44:375][ 90]LogWorld: Bringing up level for play took: 0.003232
+[2018.09.08-12.29.44:389][ 90]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.24
+[2018.09.08-12.29.44:390][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.08-12.30.21:596][219]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.08-12.30.21:596][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.08-12.30.21:659][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.08-12.30.21:659][219]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.08-12.30.21:703][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.08-12.30.21:775][220]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.09.08-12.30.25:237][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.08-12.30.35:265][561]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.09.08-12.30.36:664][609]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonExampleMap817CC5E946A84A927AE3C89864CE2FC5.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.08-12.30.36:704][609]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.626
+[2018.09.08-12.30.40:448][999]MapCheck: New page: Map Check
+[2018.09.08-12.30.40:470][999]LightingResults: New page: Lighting Build - Sep 7, 2018, 4:30:40 PM
+[2018.09.08-12.30.40:487][999]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.08-12.30.40:496][999]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.08-12.30.40:496][999]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.08-12.30.40:497][999]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.08-12.30.40:497][999]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23772
+[2018.09.08-12.30.45:067][999]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.08-12.30.45:067][999]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.08-12.30.45:067][999]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.08-12.30.45:067][999]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.08-12.30.45:067][999]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.08-12.30.45:290][999]LogEditorBuildUtils: Build time 0:04
+[2018.09.08-12.30.49:786][278]Job is a success!
+[2018.09.08-12.30.49:886][280]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2018.09.08-12.30.49:887][280]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.09.08-12.30.49:887][280]LogVolumetricLightmapImport:      BrickData 150x5x5 = 0.1Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.09.08-12.30.49:887][280]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.08-12.30.49:887][280]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2018.09.08-12.30.49:887][280]LogVolumetricLightmapImport:          1: 13.3% covering 6.3% of volume
+[2018.09.08-12.30.49:887][280]LogVolumetricLightmapImport:          2: 83.3% covering 0.6% of volume
+[2018.09.08-12.30.50:286][280]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.09.08-12.30.50:287][280]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.09.08-12.30.50:287][280]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2018.09.08-12.30.50:287][280]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.09.08-12.30.50:287][280]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2018.09.08-12.30.50:287][280]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2018.09.08-12.30.50:287][280]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2018.09.08-12.30.50:287][280]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.09.08-12.30.50:287][280]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.09.08-12.30.50:371][280]Lightmass on DESKTOP-KEAN65B: 4.28 sec total, 221 ms importing, 29 ms setup, 1.66 sec photons, 2.32 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 33.3 sec total, 5.17 sec processing.
+[2018.09.08-12.30.50:379][280]LogStaticLightingSystem: Illumination: 9.88 sec (356 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.09.08-12.30.50:379][280]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.09.08-12.30.50:379][280]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.09.08-12.30.51:093][280]DumpUnbuiltLightIteractions
+[2018.09.08-12.30.51:093][280]Lights with unbuilt interactions: 0
+[2018.09.08-12.30.51:093][280]
+[2018.09.08-12.30.51:093][280]Primitives with unbuilt interactions: 0
+[2018.09.08-12.30.51:176][281]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.08-12.30.51:176][281]MapCheck: New page: ThirdPersonExampleMap - Sep 7, 2018, 4:30:51 PM
+[2018.09.08-12.30.51:360][281]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 183.025ms to complete.
+[2018.09.08-12.31.03:225][645]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.08-12.31.03:244][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.08-12.31.03:245][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.08-12.31.03:245][645]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 7, 2018, 4:31:03 PM)
+[2018.09.08-12.31.03:245][645]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.08-12.31.03:263][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018024s)
+[2018.09.08-12.31.03:264][645]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.08-12.31.03:265][645]LogPlayLevel: PIE: World Init took: (0.001315s)
+[2018.09.08-12.31.03:265][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019598s)
+[2018.09.08-12.31.03:415][645]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.08-12.31.03:431][645]LogInit: FAudioDevice initialized.
+[2018.09.08-12.31.03:472][645]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.08-12.31.03:475][645]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.08-02.31.03
+[2018.09.08-12.31.03:476][645]LogWorld: Bringing up level for play took: 0.002968
+[2018.09.08-12.31.03:489][645]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.86
+[2018.09.08-12.31.03:490][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.08-12.31.57:723][702]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.08-12.31.57:724][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.08-12.31.57:794][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.08-12.31.57:795][702]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.08-12.31.57:839][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.08-12.31.57:908][703]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2018.09.08-12.34.05:148][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
