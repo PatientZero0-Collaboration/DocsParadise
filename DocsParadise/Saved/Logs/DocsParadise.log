@@ -908,3 +908,28 @@ LogInit: Object subsystem initialized
 [2018.09.08-11.01.08:382][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2018.09.08-11.01.08:423][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2018.09.08-11.01.08:472][655]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.09.08-11.01.45:575][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.08-11.01.45:939][383]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonExampleMap_Auto1185F5DE24F3F4BE15ACE4596E1F1B776.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.09.08-11.01.45:958][383]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.355
+[2018.09.08-11.01.45:958][383]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.355
+[2018.09.08-11.01.45:961][383]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.09.08-11.01.45:978][383]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.09.08-11.01.45:978][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.09.08-11.01.46:051][383]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonCharacter_Auto123D08B044036E294FBD15D8C5D1B1ECA.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.09.08-11.01.46:053][383]LogFileHelpers: Auto-saving content packages took 0.093
+[2018.09.08-11.02.31:671][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.08-11.03.14:619][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.08-11.03.15:516][639]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.09.08-11.03.17:178][725]Cmd: SELECT NONE
+[2018.09.08-11.07.02:531][434]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.09.08-11.07.04:225][522]Cmd: SELECT NONE
+[2018.09.08-11.08.22:908][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.08-11.08.23:997][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.08-11.08.25:601][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2018.09.08-11.08.26:166][ 36]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.09.08-11.08.27:484][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2018.09.08-11.08.28:617][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.08-11.09.13:012][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.08-11.09.17:565][645]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonCharacter8D21330D48FDF588A0704E8D9BD57C77.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.08-11.09.19:325][769]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonExampleMapDA00C813417799802293688C98BF51FA.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.09.08-11.09.19:547][769]LogSavePackage: Moving '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Saved/ThirdPersonExampleMap_BuiltData23C4AFD145CE5A7609BECBBC3946CD31.tmp' to '../../../../../../Users/dscla/Documents/GitHub/DocsParadise/DocsParadise/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
